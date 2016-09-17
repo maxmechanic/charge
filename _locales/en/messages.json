@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "charge",
+    "description": "the less battery charge, the more visible"
+  },
+  "appDescription": {
+    "message": "the less battery charge, the more visible",
+    "description": "the less battery charge, the more visible"
+  }
+}
